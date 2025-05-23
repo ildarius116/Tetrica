@@ -1,5 +1,5 @@
 """
-python -m unittest task_1/solution.py
+python -m unittest task1/solution.py
 """
 import unittest
 
